@@ -10,14 +10,14 @@
 
 RYIPAY is an open source programmable blockchain apps platform. It's compatible with tokenisation framework TokenScript, offering businesses and their users in-depth token interaction, a clean white label user experience and advanced security options. Supports all Ethereum based networks.
 
-AlphaWallet and TokenScript have been used by tokenisation projects like FIFA and UEFA’s [blockchain tickets](https://apps.apple.com/au/app/shankai/id1492559481), Bartercard’s [Qoin ecommerce ecosystem](https://apps.apple.com/au/app/qoin-wallet/id1483718254), several Automobiles’ [car ownership portal](https://github.com/AlphaWallet/TokenScript-Examples/tree/master/examples/Karma) and many more.
+ RYIPAY and Tokenscript have been used by tokenisation projects like FIFA and UEFA’s [blockchain tickets](https://apps.apple.com/au/app/shankai/id1492559481), Bartercard’s [Qoin ecommerce ecosystem](https://apps.apple.com/au/app/qoin-wallet/id1483718254), several Automobiles’ [car ownership portal](https://github.com/AlphaWallet/TokenScript-Examples/tree/master/examples/Karma) and many more.
 
 ⭐ Star us on GitHub — it helps!
 
 [![alphawallet open source wallet android preview](dmz/src/main/resources/static/readme/alphawallet-open-source-ethereum-wallet.jpg)](https://alphawallet.com/)
 <a href='https://play.google.com/store/apps/details?id=io.stormbird.wallet&hl=en&utm_source=github-readme&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get AlphaWallet Open Source Wallet on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' height="100"/></a>
 
-## About AlphaWallet - Features
+## About RYIPAY - Features
 
 Easy to use and secure open source Ethereum wallet for Android and iOS, with native ERC20, ERC721, ERC1155 and ERC875 support. AlphaWallet supports all Ethereum based networks: Ethereum, xDai, Ethereum Classic, Artis, POA, Binance Smart Chain, Heco, Polygon, Avalanche, Fantom, L2 chains Optimistic and Arbitrum, and Palm.
 TestChains: Ropsten, Goerli, Kovan, Rinkeby, Sokol, Binance Test, Heco Test, Fuji (Avalanche test), Fantom Test, Polygon Test, Optimistic and Arbitrum Test, Cronos Test and Palm test.
@@ -29,7 +29,7 @@ TestChains: Ropsten, Goerli, Kovan, Rinkeby, Sokol, Binance Test, Heco Test, Fuj
 - Interact with DeFi, DAO and Games with SmartTokens
 - No hidden fees or tech background needed
 
-### AlphaWallet Is A Token Wallet
+### RYIPAY Is A Token Wallet
 
 AlphaWallet's focus is to provide an interface to interact with Ethereum Tokens in an intuitive, simple and full featured manner. This is what sets us aside from other open source ethereum wallets.
 
@@ -45,7 +45,7 @@ With TokenScript, you can extend your Token’s capabilities to become "smart" a
 
 “SmartTokens” are traditional fungible and non fungible tokens that are extended with business logic, run natively inside the app and come with signed code to prevent tampering or phishing. It allows you to realise rich functions that Dapps previously struggled to implement. With SmartTokens you can get your token on iOS and Android in real time without the need to build your own ethereum wallet.
 
-AlphaWallet is the “browser” for users to access these SmartTokens. You can get the most out of your use case implementation... without leaving the wallet.
+RYIPAY is the “browser” for users to access these SmartTokens. You can get the most out of your use case implementation... without leaving the wallet.
 
 Visit [TokenScript Documentation](https://github.com/AlphaWallet/TokenScript) or see [TokenScript Examples](https://github.com/AlphaWallet/TokenScript-Examples) to learn what you can do with it.
 
@@ -68,7 +68,7 @@ You can also build it from the commandline just like other Android apps. Note th
 
 Find more information in our available [documentation](https://github.com/AlphaWallet/alpha-wallet-android/blob/master/docs/overview.md).
 
-### Add your token to AlphaWallet
+### Add your token to RYIPAY
 
 If you’d like to include TokenScript and extend your token functionalities, please refer to [TokenScript](https://github.com/AlphaWallet/TokenScript).
 
